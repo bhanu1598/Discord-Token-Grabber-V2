@@ -59,3 +59,5 @@ No module named 'Crypto' or 'Cryptodome'
 > open a cmd and type `pip install pycryptodome==3.14.1`
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-3913/)
+
+
